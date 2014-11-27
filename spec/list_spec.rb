@@ -1,4 +1,5 @@
 # encoding: UTF-8
+$: << "."
 require './lib/nodelist/list'
 require './lib/question/simpleChoice/base'
 
